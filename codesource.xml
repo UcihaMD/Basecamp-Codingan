@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+    <personalInformation>
+        <name>
+            <first>Mas'ud</first>
+            <last>bin Ismail</last>
+        </name>
+        <father>
+            <name>Ismail</name>
+        </father>
+        <contactInformation>
+            <phoneNumber>0913570</phoneNumber>
+        </contactInformation>
+    </personalInformation>
+    <details>
+        <additionalInfo>
+            <hobbies>
+                <hobby>Reading</hobby>
+                <hobby>Traveling</hobby>
+                <hobby>Cooking</hobby>
+            </hobbies>
+            <preferences>
+                <preference>
+                    <type>Favorite Color</type>
+                    <value>Blue</value>
+                </preference>
+                <preference>
+                    <type>Favorite Food</type>
+                    <value>Pizza</value>
+                </preference>
+            </preferences>
+        </additionalInfo>
+    </details>
+</profile>
