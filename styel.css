@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biodata Mas'ud</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .info {
+            margin-bottom: 20px;
+        }
+        .info label {
+            font-weight: bold;
+            color: #555;
+            display: block;
+            font-size: 18px;
+        }
+        .info p {
+            margin: 5px 0;
+            color: #333;
+            font-size: 20px;
+        }
+        .highlight {
+            font-family: 'Dancing Script', cursive; /* Font sambung */
+            font-size: 48px; /* Ukuran font yang besar */
+            color: #0066cc; /* Warna biru untuk menonjolkan */
+            text-align: center;
+            margin: 20px 0;
+        }
+    </style>
+    <!-- Link Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>Biodata</h1>
+        <div class="highlight">Mas'ud</div>
+        <div class="info">
+            <label>Asal:</label>
+            <p>NTB</p>
+        </div>
+        <div class="info">
+            <label>Tempat, Tanggal Lahir:</label>
+            <p>Sumbawa, 19 Oktober 2004</p>
+        </div>
+        <div class="info">
+            <label>Ambisi:</label>
+            <p>Masuk pondok IT: Mencari lingkungan yang berpradaban dengan agama Allah dan ingin mempelajari skill IT.</p>
+        </div>
+    </div>
+</body>
+</html>
